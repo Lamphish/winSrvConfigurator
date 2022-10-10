@@ -56,7 +56,5 @@ $LocalPrinterForm.controls.AddRange(@($Titel,$Description,$PrinterStatus,$Printe
 
 # THIS SHOULD BE AT THE END OF YOUR SCRIPT FOR NOW
 # Display the form
-[void]$LocalPrinterForm.ShowDialog()
 
-# Display the form
 [void]$LocalPrinterForm.ShowDialog()
