@@ -1,4 +1,6 @@
-https://github.com/Lamphish/ElectCon
+Stopped Working on
+
+Check: https://github.com/Lamphish/ElectCon
 
 # winSrcConfigurator
 Powershell Config Script with GUI (Hyper-V, DC)
